@@ -1,4 +1,5 @@
-{
-  "functions": {}
+"funciones": {
+  "miFuncionVacia": {
+    "dummyProperty": "dummyValue"
+  }
 }
-
