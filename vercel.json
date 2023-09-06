@@ -1,1 +1,8 @@
 
+{
+  "functions": {
+    "miFuncion": {
+      "maxDuration": 10
+    }
+  }
+}
