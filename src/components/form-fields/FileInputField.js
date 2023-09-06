@@ -2,7 +2,8 @@ import React, { useRef } from "react";
 
 import { CustomBoxFullWidth } from "../../styled-components/CustomStyles.style";
 import FileUpload from "../file-upload-container/FileUpload";
-export { CustomBoxImageText };
+export const CustomBoxImageText = styled(Box)(({ theme }) => ({
+  maxWidth: "8.88rem",
 const FileInputField = (props) => {
   const {
     width,
