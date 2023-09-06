@@ -2,7 +2,7 @@ import React, { useRef } from "react";
 
 import { CustomBoxFullWidth } from "../../styled-components/CustomStyles.style";
 import FileUpload from "../file-upload-container/FileUpload";
-
+export { CustomBoxImageText };
 const FileInputField = (props) => {
   const {
     width,
