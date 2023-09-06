@@ -6,7 +6,7 @@ import {
 } from "./FilePreviewer.style";
 import DeleteIcon from "@mui/icons-material/Delete";
 import Typography from "@mui/material/Typography";
-import { CustomBoxImageText } from "../form-fields/FileInputField";
+import { CustomBoxImageText } from "./FilePreviewer.style";
 import { Grid, Stack, useMediaQuery } from "@mui/material";
 import FileInputField from "../form-fields/FileInputField";
 import pdfIcon from "./assets/pdf.png";
